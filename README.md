@@ -1,4 +1,8 @@
-# Feitian-MultiPass-FIDO-U2F
+![K17](IMG_20170113_222916.jpg)
+
+# Feitian MultiPass FIDO U2F (K13)
+
+Will likely be sold under other brand names as well.
 
 ## Useful NFC Info
 
@@ -118,3 +122,10 @@ Certificate:
 <removed>
 -----END CERTIFICATE-----
 ```
+
+## Other Notes
+
+- NFC seems to be extremely weak, difficult to use with Android
+- At the time of writing, U2F BLE is not usable (zero browsers support it)
+- USB works fine
+- If you start it in Bluetooth mode, you can plug it into USB after
